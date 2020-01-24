@@ -8,4 +8,4 @@ def unsafe?(speed)
 
 end
 	
-(speed) >
+(speed) > 40 ? "unsafe" : "safe"
