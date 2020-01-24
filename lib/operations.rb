@@ -9,3 +9,4 @@ def unsafe?(speed)
 end
 	
 (speed) > 40 ? "unsafe" : "safe"
+
